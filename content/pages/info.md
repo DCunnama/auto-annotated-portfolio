@@ -195,7 +195,7 @@ sections:
       - type: Label
         label: 'Content Creation (Film, Audio, Digital)'
       - type: Label
-        label: C++
+        label: Community Engagement & Indigenous Knowledge Integration
       - type: Label
         label: Swift
   - type: DividerSection
