@@ -193,7 +193,7 @@ sections:
       - type: Label
         label: Project Management & Fundraising
       - type: Label
-        label: Pancakes
+        label: 'Content Creation (Film, Audio, Digital)'
       - type: Label
         label: C++
       - type: Label
