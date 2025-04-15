@@ -14,10 +14,8 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+      I explore the universe, share its stories, and help shape African
+      science—through strategy, storytelling, and a love of the stars.
 
     media:
       type: ImageBlock
