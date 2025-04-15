@@ -189,7 +189,7 @@ sections:
       - type: Label
         label: Science Policy & Stakeholder Management
       - type: Label
-        label: Next.js
+        label: Astronomy Research & Data Analysis
       - type: Label
         label: Netlify
       - type: Label
