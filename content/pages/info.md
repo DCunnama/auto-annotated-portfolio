@@ -187,7 +187,7 @@ sections:
       - type: Label
         label: 'Public Speaking, Moderation & Podcasting'
       - type: Label
-        label: Microsoft Office
+        label: Science Policy & Stakeholder Management
       - type: Label
         label: Next.js
       - type: Label
