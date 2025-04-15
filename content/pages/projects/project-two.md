@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: The Cosmic Savannah Podcas
+title: The Cosmic Savannah Podcast
 colors: colors-a
 date: ''
 client: Awesome client
