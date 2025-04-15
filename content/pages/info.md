@@ -204,6 +204,8 @@ sections:
           - pl-4
         flexDirection: row
         textAlign: left
+    text: |
+      Contact me via [LinkedIn](https://www.linkedin.com/in/daniel-cunnama/)
 metaTitle: Daniel Cunnama
 metaDescription: Daniel Cunnama
 socialImage: /images/MAT_7073small.jpg
