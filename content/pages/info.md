@@ -197,7 +197,7 @@ sections:
       - type: Label
         label: Community Engagement & Indigenous Knowledge Integration
       - type: Label
-        label: Swift
+        label: Event Conceptualisation & Curation
   - type: DividerSection
     styles:
       self:
