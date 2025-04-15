@@ -13,10 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      I explore the universe, share its stories, and help shape African
-      science—through strategy, storytelling, and a love of the stars.
-
+    text: ''
     media:
       type: ImageBlock
       url: /images/about.jpg
