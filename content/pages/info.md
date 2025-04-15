@@ -185,7 +185,7 @@ sections:
       - type: Label
         label: Science Communication & Strategic Engagement
       - type: Label
-        label: React
+        label: 'Public Speaking, Moderation & Podcasting'
       - type: Label
         label: Microsoft Office
       - type: Label
