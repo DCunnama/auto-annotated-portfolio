@@ -15,8 +15,9 @@ sections:
     backgroundSize: full
     title: Dr Daniel Cunnama
     subtitle: >-
-      Astrophysicist, science communicator, and content creator with a focus on
-      making astronomy count for more than just curiosity
+      I connect people to the cosmos—through research, strategy, and
+      storytelling.Astrophysicist, science communicator, and content creator
+      with a focus on making astronomy count for more than just curiosity
     styles:
       self:
         height: auto
