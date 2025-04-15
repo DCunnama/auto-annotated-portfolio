@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >
-      ’m an astrophysicist, science communicator, and strategist working at the
+      I’m an astrophysicist, science communicator, and strategist working at the
       intersection of research, public engagement, and impact. Whether I’m
       analysing simulations of galaxy clusters or producing fulldome films
       rooted in Indigenous knowledge, my goal is the same: making science
