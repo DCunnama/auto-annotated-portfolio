@@ -234,4 +234,5 @@ sections:
         flexDirection: row
         textAlign: left
 metaTitle: Daniel Cunnama
+metaDescription: Daniel Cunnama
 ---
