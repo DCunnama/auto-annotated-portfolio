@@ -191,7 +191,7 @@ sections:
       - type: Label
         label: Astronomy Research & Data Analysis
       - type: Label
-        label: Netlify
+        label: Project Management & Fundraising
       - type: Label
         label: Pancakes
       - type: Label
