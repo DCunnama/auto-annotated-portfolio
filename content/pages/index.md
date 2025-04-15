@@ -13,9 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I connect people to the cosmos—through research, strategy, and
-      storytelling.
+    title: Dr Daniel Cunnama
     subtitle: >-
       Astrophysicist, science communicator, and content creator with a focus on
       making astronomy count for more than just curiosity
