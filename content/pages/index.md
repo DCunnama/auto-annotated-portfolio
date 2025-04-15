@@ -84,5 +84,5 @@ sections:
         flexDirection: row
         textAlign: left
     text: |
-      Contact me via [LinkedIn](https://www.linkedin.com/in/daniel-cunnama/)
+      c
 ---
