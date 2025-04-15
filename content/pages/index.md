@@ -67,28 +67,6 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: "For speaking engagements, interviews, project collaborations, or just a good astronomy chat - feel free to reach out....\U0001F4AC"
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: 1/2
-          type: EmailFormControl
-        - type: TextareaFormControl
-          name: message
-          label: Message
-          hideLabel: false
-          placeholder: Type your message here
-          width: full
-          isRequired: false
-      submitLabel: "Submit \U0001F680"
-      styles:
-        self:
-          textAlign: center
     styles:
       self:
         height: auto
