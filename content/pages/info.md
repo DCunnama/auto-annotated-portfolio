@@ -257,12 +257,30 @@ sections:
         text: >+
           *   **The Cosmic Savannah** – A podcast bringing African astronomy to
           global audiences
-              **Sida Tsoatsoas** – Award-winning fulldome film featuring ‡Khomani San starlore
-              **Rising Star** – Planetarium film showcasing South Africa’s leadership in astronomy
-              **SAAO Visitors’ Centre (Cape Town)** – Science-meets-culture exhibit space
-              **Kora Constellations** – Indigenous constellation research and installations
-              **ZAstronomy App** – Digital engagement hub for schools and public audiences
-              **Connect South Africa** – Arts-science international residency collaboration
+
+
+          *   **Sida Tsoatsoas** – Award-winning fulldome film featuring
+          ‡Khomani San starlore
+
+
+          *   **Rising Star** – Planetarium film showcasing South Africa’s
+          leadership in astronomy
+
+
+          *   **SAAO Visitors’ Centre (Cape Town)** – Science-meets-culture
+          exhibit space
+
+
+          *   **Kora Constellations** – Indigenous constellation research and
+          installations
+
+
+          *   **ZAstronomy App** – Digital engagement hub for schools and public
+          audiences
+
+
+          *   **Connect South Africa** – Arts-science international residency
+          collaboration
 
         styles:
           self:
