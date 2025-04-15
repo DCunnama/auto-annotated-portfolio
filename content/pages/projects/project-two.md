@@ -7,7 +7,7 @@ client: Awesome client
 description: Sharing African astronomy with the world—one episode at a time
 featuredImage:
   type: ImageBlock
-  url: /images/TCS-Instagram.png
+  url: /images/TCS-website-large-final.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
