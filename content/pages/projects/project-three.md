@@ -9,7 +9,7 @@ description: >-
   immersive storytelling.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/Fig 2 - Sida Tsoatsoas Poster.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
