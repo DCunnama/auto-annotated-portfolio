@@ -225,26 +225,30 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **Current**
+        text: >+
+          *   **Science Engagement Astronomer**, NRF-SAAO (2018–present)
 
-          * freelance @freelance.me
 
-          **2018-2021**
+          *   **President**, Astronomical Society of Southern Africa
 
-          * fullstack at this startup
 
-          **2015**
+          *   **Communications & Exhibitions Lead**, IAU General Assembly 2024
 
-          * senior front-end at this place
 
-          **2013**
+          *   **Executive Producer**, Planetarium Films: *Sida Tsoatsoas* &
+          *Rising Star*
 
-          * intern developer at a big company
 
-          **2011**
+          *   **Podcast Host & Creator**, *The Cosmic Savannah*
 
-          * flipping burgers
+
+          *   **Strategic Committee Roles** – Astronomy Community Task Team,
+          Astro-Tourism Governance, African-European Radio Astronomy Platform
+
+
+          *   **Research Collaborator** – nIFTy simulations, LADUMA Survey,
+          Mocking Astrophysics
+
         styles:
           self:
             textAlign: left
