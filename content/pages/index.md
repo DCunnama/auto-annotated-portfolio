@@ -71,13 +71,6 @@ sections:
       type: FormBlock
       elementId: sign-up-form
       fields:
-        - name: firstName
-          label: Name
-          hideLabel: true
-          placeholder: Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
         - name: email
           label: Email
           hideLabel: true
