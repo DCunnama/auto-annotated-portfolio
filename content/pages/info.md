@@ -235,4 +235,5 @@ sections:
         textAlign: left
 metaTitle: Daniel Cunnama
 metaDescription: Daniel Cunnama
+socialImage: /images/MAT_7073small.jpg
 ---
