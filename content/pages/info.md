@@ -37,6 +37,9 @@ sections:
           - pr-4
         textAlign: left
     type: HeroSection
+    title: >-
+      I explore the universe, share its stories, and help shape African
+      science—through strategy, storytelling, and a love of the stars.
   - type: DividerSection
     styles:
       self:
